@@ -1,5 +1,5 @@
 # learn-html-css
 Learning HTML/CSS with:
 
-HTML & CSS Full Course - Beginner to Pro by SuperSimpleDev
+HTML & CSS Full Course - Beginner to Pro by SuperSimpleDev \n
 https://www.youtube.com/watch?v=G3e-cpL7ofc&t=3527s
